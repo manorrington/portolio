@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ggportfolio-dev-171018-authRole",
+      "UnauthRoleArn": "arn:aws:iam::321430131339:role/amplify-ggportfolio-dev-171018-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::321430131339:role/amplify-ggportfolio-dev-171018-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ggportfolio-dev-171018-deployment",
+      "UnauthRoleName": "amplify-ggportfolio-dev-171018-unauthRole",
+      "StackName": "amplify-ggportfolio-dev-171018",
+      "StackId": "arn:aws:cloudformation:us-east-1:321430131339:stack/amplify-ggportfolio-dev-171018/7ed92290-20cc-11ed-b4de-12e29ceec6bb",
+      "AmplifyAppId": "d1ol4hn3g81ark"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1ol4hn3g81ark",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
