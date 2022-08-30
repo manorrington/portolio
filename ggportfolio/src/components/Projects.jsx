@@ -3,8 +3,6 @@ import Learnify from "../assets/learnify.png";
 import Ecom from "../assets/ecom.png";
 import Complex from "../assets/complex.png";
 import Code4Justice from "../assets/code4justice.png";
-import { HiArrowNarrowRight } from 'react-icons/hi';
-import {Link} from 'react-scroll'
 
 const Projects = () => {
   return (
@@ -117,14 +115,6 @@ const Projects = () => {
             </div>
           </div>
         </div>
-        <Link to='contact' smooth={true} duration={500}>
-          <button className='text-white group border-2 px-6 py-3 my-2 flex items-center cursor-pointer hover:bg-[#8892b0] hover:border-[#8892b0]'>
-            Contact Me
-            <span className='group-hover:rotate-90 duration-300'>
-              <HiArrowNarrowRight className='ml-3 ' />
-            </span>
-          </button>
-        </Link>
       </div>
     </div>
   );
